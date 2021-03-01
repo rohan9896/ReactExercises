@@ -9,3 +9,5 @@ COUNTER BUTTON - https://sbxj6.csb.app/
 SWITCH TABS - https://p6dir.csb.app/
 
 TODO LIST - https://cgj11.csb.app/
+
+CHARACTER COUNTER - https://lpt8g.csb.app/

@@ -1,0 +1,30 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.toast {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.toast__container {
+  background-color: #1438ad;
+  border-left: solid 10px red;
+  border-radius: 10px;
+  color: white;
+  width: 400px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  width: 100px;
+  height: 50px;
+  background-color: orangered;
+  color: white;
+  border-radius: 10%;
+  font-size: larger;
+}

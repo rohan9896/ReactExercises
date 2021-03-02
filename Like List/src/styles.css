@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.post {
+  list-style: none;
+  margin: 30px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.postImg__size {
+  height: 150px;
+  width: 200px;
+}
